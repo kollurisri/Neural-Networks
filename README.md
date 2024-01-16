@@ -1,6 +1,6 @@
 # Neural-Networks
 
-Video Link: 
+Video Link: https://1drv.ms/v/c/914380031521af45/EdWBBiJcPztIoBuWdRRtODoBLWZLxBZ7LQ6eJ-qIuHYp7A?e=iYalmt
 
 ICP - 1
 Q1. PART 1: Here we use a "if-else" condition to determine the lenght of the input string. The function in here is to delete 2 characters from the given string, reverse it and print it. Instead of using the del command, we used "input_string[:-2]" to remove the last 2 characters from the given string if else condition is met.
