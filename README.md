@@ -1,5 +1,7 @@
 # Neural-Networks
 
+Video Link: 
+
 ICP - 1
 Q1. PART 1: Here we use a "if-else" condition to determine the lenght of the input string. The function in here is to delete 2 characters from the given string, reverse it and print it. Instead of using the del command, we used "input_string[:-2]" to remove the last 2 characters from the given string if else condition is met.
     PART 2: Here we performed 4 arithmetic operations on 2 input numbers. Since the input can have a possible decimals we used float type for input numbers.
